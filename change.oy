@@ -1,0 +1,9 @@
+import wget
+import urllib
+images= open("pos.txt", "w")
+
+
+for line in images.readlines():
+	image.writelines("/pos/" + line + "1 0 0 100 40"
+
+
