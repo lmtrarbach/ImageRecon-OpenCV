@@ -1,6 +1,6 @@
 import cv2
 import sys
-
+'''Testando outras coisas'''
 armas = cv2.CascadeClassifier('/opt/miniconda2/envs/projetoimagem/projeto/projetoimagem/mycascades/wasponcacade.xml')
 
 video_capture = cv2.VideoCapture(0)
